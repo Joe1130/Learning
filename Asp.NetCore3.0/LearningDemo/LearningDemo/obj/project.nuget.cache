@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+e7zMo3JNludklaHbB9Imy8X9+Q54qVwfGm2WgJqMlvyQTRNj5DhhTWXnccC6zMsziFRicmVkuxnToa42tKvLg==",
+  "dgSpecHash": "SFzNOeIND+K6DvmzbhEqI3T7pjWZ2sns1AjPn4x5Cfpd5y2xOAgogxTjFaxyx9d+qpij4sJ+6lYR6Duv3/RYQQ==",
   "success": true,
   "projectFilePath": "F:\\Learning\\Asp.NetCore3.0\\LearningDemo\\LearningDemo\\LearningDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Joe\\.nuget\\packages\\buildbundlerminifier\\3.2.435\\buildbundlerminifier.3.2.435.nupkg.sha512"
+  ],
   "logs": []
 }
